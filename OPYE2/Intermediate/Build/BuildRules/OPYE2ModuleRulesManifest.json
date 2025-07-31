@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\GitHub\\OPYE2\\Source\\OPYE2\\OPYE2.Build.cs",
+		"C:\\GitHub\\OPYE2\\Source\\OPYE2.Target.cs",
+		"C:\\GitHub\\OPYE2\\Source\\OPYE2Editor.Target.cs"
+	],
+	"EngineVersion": "5.6.0"
+}

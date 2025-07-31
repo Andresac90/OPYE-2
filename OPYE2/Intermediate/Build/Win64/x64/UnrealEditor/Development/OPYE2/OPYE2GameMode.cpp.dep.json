@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\github\\opye2\\source\\opye2\\opye2gamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\github\\opye2\\intermediate\\build\\win64\\x64\\opye2editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\github\\opye2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\opye2\\definitions.opye2.h",
+            "c:\\github\\opye2\\source\\opye2\\opye2gamemode.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\github\\opye2\\intermediate\\build\\win64\\unrealeditor\\inc\\opye2\\uht\\opye2gamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
